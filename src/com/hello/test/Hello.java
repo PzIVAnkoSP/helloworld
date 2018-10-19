@@ -6,5 +6,6 @@ public class Hello {
 		System.out.println("Hi");
 		//fix bug
 		System.out.println("other branch");
+		System.out.println("after rebase");
 	}
 }
