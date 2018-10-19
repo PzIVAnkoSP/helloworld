@@ -8,5 +8,6 @@ public class Hello {
 		System.out.println("other branch");
 		System.out.println("after rebase");
 		System.out.println("change");
+		System.out.println("matser change");
 	}
 }
