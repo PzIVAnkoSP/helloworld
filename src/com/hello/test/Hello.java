@@ -5,5 +5,6 @@ public class Hello {
 		System.out.println("Hello World!");
 		System.out.println("Hi");
 		//fix bug
+		System.out.println("other branch");
 	}
 }
