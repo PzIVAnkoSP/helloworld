@@ -11,7 +11,10 @@ public class Hello {
 		System.out.println("matser change");
 
 		System.out.println("other change");
+		
 
-
+	}
+	public void change(){
+		System.out.println("changed");
 	}
 }
