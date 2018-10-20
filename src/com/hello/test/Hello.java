@@ -11,7 +11,7 @@ public class Hello {
 		System.out.println("matser change");
 
 		System.out.println("other change");
-		
+		System.out.println("mc2");
 
 	}
 	public void change(){
